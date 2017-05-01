@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Intellij
+.idea
+
+# Gradle
+.gradle/
+gradle/
+
+# Generated files
+build/
+out/
